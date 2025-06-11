@@ -12,3 +12,4 @@ C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectMan
 C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.pdb
 C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.genruntimeconfig.cache
 C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\ref\01.ProjectManagement.dll
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.sourcelink.json

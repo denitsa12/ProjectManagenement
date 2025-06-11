@@ -15,7 +15,7 @@ namespace _01.ProjectManagement.Models
         public string Description { get; set; }
         public  List<Worker> Developers { get; set; }
 
-        public int DurationInDays => (EndDate - StartDate).Days;
-        public decimal MonthlyCost => Developers.Sum(d => d.Salary);
+       // public int DurationInDays => (EndDate - StartDate).Days;
+       // public decimal MonthlyCost => Developers.Sum(d => d.Salary);
     }
 }
