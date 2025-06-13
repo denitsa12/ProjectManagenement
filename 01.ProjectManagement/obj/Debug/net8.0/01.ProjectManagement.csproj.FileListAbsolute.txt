@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\bin\Debug\net8.0\01.ProjectManagement.exe
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\bin\Debug\net8.0\01.ProjectManagement.deps.json
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\bin\Debug\net8.0\01.ProjectManagement.runtimeconfig.json
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\bin\Debug\net8.0\01.ProjectManagement.dll
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\bin\Debug\net8.0\01.ProjectManagement.pdb
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.AssemblyInfo.cs
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.dll
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\refint\01.ProjectManagement.dll
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.pdb
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.genruntimeconfig.cache
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\ref\01.ProjectManagement.dll
+C:\Users\user\Desktop\Uni\Държавен изпит\задачи\01.ProjectManagement(04.07.2023)\01.ProjectManagement\obj\Debug\net8.0\01.ProjectManagement.sourcelink.json
